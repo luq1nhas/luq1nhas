@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Vieira+Bueno+e+Silva;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luq1nhas&show_icons=true&bg_color=00000000&ring_color=6A5ACD&text_color=6A5ACD&title_color=6A5ACD&icon_color=6A5ACD&include_all_commits=true" />
-   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luq1nhas&layout=compact&show_icons=true&bg_color=00000000&ring_color=6A5ACD&text_color=6A5ACD&title_color=6A5ACD&icon_color=6A5ACD"/>
+  <img width="100%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luq1nhas&show_icons=true&bg_color=00000000&ring_color=DC143C&text_color=DC143C&title_color=DC143C&icon_color=DC143C&include_all_commits=true" />
+   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luq1nhas&layout=compact&show_icons=true&bg_color=00000000&ring_color=DC143C&text_color=DC143C&title_color=DC143C&icon_color=DC143C"/>
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luq1nhas&bg_color=0d1117&color=fcfcfc&line=6A5ACD&point=fcfcfc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luq1nhas&bg_color=0d1117&color=fcfcfc&line=DC143C&point=fcfcfc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
@@ -40,4 +40,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
