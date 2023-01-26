@@ -5,7 +5,8 @@
 
 
 <div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luq1nhas&show_icons=true&bg_color=00000000&ring_color=6A5ACD&text_color=6A5ACD&title_color=6A5ACD&icon_color=6A5ACD&include_all_commits=true" /> 
+  <img width="100%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luq1nhas&show_icons=true&bg_color=00000000&ring_color=6A5ACD&text_color=6A5ACD&title_color=6A5ACD&icon_color=6A5ACD&include_all_commits=true" />
+   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueDiasSilva&layout=compact&show_icons=true&bg_color=00000000&ring_color=6A5ACD&text_color=20b2aa&title_color=26A5ACD&icon_color=20b2aa"/>
 </div>
 
 
