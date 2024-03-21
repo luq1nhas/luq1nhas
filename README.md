@@ -31,7 +31,7 @@
 
 ### Studying in this moment:
 ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r&logoColor=purple&labelColor=0D1117)&nbsp;
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge&labelColor=0D1117)&nbsp;
+![Native](https://shields.io/badge/react-black?logo=react&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
 
